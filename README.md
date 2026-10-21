@@ -72,7 +72,7 @@ Status values accepted by the core: `OPEN`, `INVESTIGATING`, `REPORTED`, `CLOSED
 
 - Java 25
 - Apache Maven 3.9+
-- `core-lending-regulatory-compliance-sdk` 26.10.4
+- `core-lending-regulatory-compliance-sdk` 26.10.5
 - Apache Kafka on `localhost:9092` when event publishing is left at the default
 
 ### Environment
